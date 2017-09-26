@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "02b441b9-441e-4d01-8b0d-85444e7b5534",
-            "Value": {
-                "id": "e5f7e814-4069-4483-89ff-a9355ba73e60",
-                "resourcePath": "objects\\obj_enemy_gun\\obj_enemy_gun.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "05b9f160-c795-44f5-a266-6ef4d06b53f9",
             "Value": {
                 "id": "0bbd7fb4-3d57-46f1-a7aa-edb455dc1222",
@@ -127,6 +119,14 @@
             }
         },
         {
+            "Key": "5a4de957-f295-4571-a580-b751068b9189",
+            "Value": {
+                "id": "fde54fa3-1f3b-4a58-bbe8-d2f4cf832d6f",
+                "resourcePath": "objects\\obj_gate_square\\obj_gate_square.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "60e1acdb-5235-4c78-8f65-49fe9d3eb13d",
             "Value": {
                 "id": "a03a6992-6f1c-448b-a7d0-6b7ceeb81c59",
@@ -172,6 +172,14 @@
                 "id": "1d862f18-5d21-4569-9420-3a917e778ee6",
                 "resourcePath": "sprites\\spr_player_sqaure\\spr_player_sqaure.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93bf6cfc-198e-43aa-86e0-5f727b869d51",
+            "Value": {
+                "id": "0b889f79-602f-4c4f-9db6-0623321940ba",
+                "resourcePath": "objects\\obj_enemy_gun_right\\obj_enemy_gun_right.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -244,6 +252,14 @@
                 "id": "985fd0ba-b587-4a57-93e8-89b6c2647f55",
                 "resourcePath": "views\\c8233d6a-0b88-4157-a1a2-2f7294ede150.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cae69b33-e82c-4051-8ba2-f18df43455a3",
+            "Value": {
+                "id": "219ab978-b6c6-4db6-8056-f787989ac604",
+                "resourcePath": "objects\\obj_enemy_gun_left\\obj_enemy_gun_left.yy",
+                "resourceType": "GMObject"
             }
         },
         {

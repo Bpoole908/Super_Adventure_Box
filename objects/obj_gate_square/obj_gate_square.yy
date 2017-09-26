@@ -1,8 +1,8 @@
 {
-    "id": "02b441b9-441e-4d01-8b0d-85444e7b5534",
+    "id": "5a4de957-f295-4571-a580-b751068b9189",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_gun",
+    "name": "obj_gate_square",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "1ed51911-836a-400e-9e2c-01831d4be857",
+    "spriteId": "b97be720-afcc-42d6-bfed-10db0cbcc64e",
     "visible": true
 }
