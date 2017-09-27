@@ -1,8 +1,10 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Get_Global
 /// @DnDVersion : 1
-/// @DnDHash : 66B250CB
-/// @DnDArgument : "var" "dir"
-dir = 0;
+/// @DnDHash : 6301C476
+/// @DnDArgument : "output" "dir"
+/// @DnDArgument : "output_temp" "1"
+/// @DnDArgument : "var" "direction"
+var dir = global.direction;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
