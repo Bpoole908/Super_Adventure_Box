@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7FA9AE76
-/// @DnDArgument : "expr" "20"
+/// @DnDArgument : "expr" "22"
 /// @DnDArgument : "var" "offSet"
-offSet = 20;
+offSet = 22;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
