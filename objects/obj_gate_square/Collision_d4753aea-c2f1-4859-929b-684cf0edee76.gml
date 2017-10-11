@@ -16,10 +16,9 @@ if(room != room_last)
 /// @DnDHash : 7E92FB80
 else
 {
-
+	/// @DnDAction : YoYo Games.Game.End_Game
+	/// @DnDVersion : 1
+	/// @DnDHash : 520D6823
+	/// @DnDParent : 7E92FB80
+	game_end();
 }
-
-/// @DnDAction : YoYo Games.Game.End_Game
-/// @DnDVersion : 1
-/// @DnDHash : 520D6823
-game_end();
