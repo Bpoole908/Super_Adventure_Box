@@ -2,7 +2,7 @@
     "id": "016ccc7d-4fd1-45d4-91f4-ab5b8acc603e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite12",
+    "name": "spr_sphere_gate",
     "For3D": false,
     "HTile": false,
     "VTile": false,

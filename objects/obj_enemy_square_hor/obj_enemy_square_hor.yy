@@ -5,16 +5,6 @@
     "name": "obj_enemy_square_hor",
     "eventList": [
         {
-            "id": "68f8081d-8981-4572-adbb-8e3c0e6e25fc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 7,
-            "m_owner": "701c73c1-680e-483f-bd94-9d7247ef9387"
-        },
-        {
             "id": "652b3597-9107-445e-8fa6-5aacfa21c152",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -30,6 +20,16 @@
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "ccfe6a1a-6a1c-4c20-bf93-c7ff22777f5e",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "701c73c1-680e-483f-bd94-9d7247ef9387"
+        },
+        {
+            "id": "0cf771aa-5327-4596-b35c-125d6fd45f35",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "11639982-918e-4b4b-8159-b81816669566",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "701c73c1-680e-483f-bd94-9d7247ef9387"

@@ -2,7 +2,7 @@
     "id": "14b8f98a-ffe5-4274-b21b-92484a6870b5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_player_sphere",
+    "name": "spr_player_circle",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -13,6 +13,7 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
+    "edgeFiltering": false,
     "frames": [
         {
             "id": "b199732e-84b6-4194-b7cc-2e096f691236",
@@ -54,6 +55,7 @@
         }
     ],
     "origin": 0,
+    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
