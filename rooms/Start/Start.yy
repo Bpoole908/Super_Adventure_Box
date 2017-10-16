@@ -7,7 +7,11 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "2864c971-27ad-49a1-b42f-ede8accbd316"
+        "2864c971-27ad-49a1-b42f-ede8accbd316",
+        "e2ebd3da-9ed2-4a8d-af90-7979e2284b19",
+        "a7e1a3e7-82cb-40a0-8426-c412008d7eaf",
+        "0d7622bd-80ac-4f6c-9ce4-1488ea0fac50",
+        "3c0bf560-7c49-4fb0-b746-c58e6248170d"
     ],
     "IsDnD": true,
     "layers": [
@@ -16,8 +20,8 @@
             "name": "Instances",
             "id": "1b5f9604-a122-41a9-a085-03f2916de909",
             "depth": 0,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 8,
+            "grid_y": 8,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -25,7 +29,11 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-                {"name": "inst_27F8F04C","id": "2864c971-27ad-49a1-b42f-ede8accbd316","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_27F8F04C","objId": "74678314-b37d-4375-875d-44d36a849182","rotation": 0,"scaleX": 1.25,"scaleY": 1.25,"mvc": "1.0","x": 117,"y": 397}
+                {"name": "inst_27F8F04C","id": "2864c971-27ad-49a1-b42f-ede8accbd316","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_27F8F04C","objId": "74678314-b37d-4375-875d-44d36a849182","rotation": 0,"scaleX": 1.25,"scaleY": 1.25,"mvc": "1.0","x": 117,"y": 397},
+                {"name": "inst_3097D0E9","id": "e2ebd3da-9ed2-4a8d-af90-7979e2284b19","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3097D0E9","objId": "93bf6cfc-198e-43aa-86e0-5f727b869d51","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 704},
+                {"name": "inst_3CAF7891","id": "a7e1a3e7-82cb-40a0-8426-c412008d7eaf","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3CAF7891","objId": "93bf6cfc-198e-43aa-86e0-5f727b869d51","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 64},
+                {"name": "inst_2001B932","id": "0d7622bd-80ac-4f6c-9ce4-1488ea0fac50","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2001B932","objId": "93bf6cfc-198e-43aa-86e0-5f727b869d51","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 320},
+                {"name": "inst_561E0075","id": "3c0bf560-7c49-4fb0-b746-c58e6248170d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_561E0075","objId": "ccfe6a1a-6a1c-4c20-bf93-c7ff22777f5e","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 840,"y": 168}
             ],
             "layers": [
 
