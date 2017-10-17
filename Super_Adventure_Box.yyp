@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "5a4de957-f295-4571-a580-b751068b9189",
-            "Value": {
-                "id": "fde54fa3-1f3b-4a58-bbe8-d2f4cf832d6f",
-                "resourcePath": "objects\\obj_gate_square\\obj_gate_square.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "60e1acdb-5235-4c78-8f65-49fe9d3eb13d",
             "Value": {
                 "id": "a03a6992-6f1c-448b-a7d0-6b7ceeb81c59",
@@ -218,7 +210,7 @@
             "Key": "899c87c5-f871-4171-aa84-c2278246c191",
             "Value": {
                 "id": "6dd1ac61-43bf-47f0-b49f-166dca492670",
-                "resourcePath": "rooms\\Level_One\\Level_One.yy",
+                "resourcePath": "rooms\\Level_Two\\Level_Two.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -330,7 +322,7 @@
             "Key": "c3f5fbcd-d4e5-4989-81ad-14635fbd118b",
             "Value": {
                 "id": "4e915986-074a-4dff-b503-a7fc6069aa96",
-                "resourcePath": "rooms\\Level_Two\\Level_Two.yy",
+                "resourcePath": "rooms\\Level_One\\Level_One.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -439,6 +431,14 @@
             }
         },
         {
+            "Key": "e51186bb-0854-427c-a318-6729cef17310",
+            "Value": {
+                "id": "b57eb1cb-8e80-48f5-8e3b-a30c4eb21cf9",
+                "resourcePath": "objects\\obj_enemy_square_path\\obj_enemy_square_path.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e6670ebe-4b28-492a-af71-b244fd3886bf",
             "Value": {
                 "id": "165b47e1-0477-430a-9bfa-6c5b9960f2b7",
@@ -460,6 +460,14 @@
                 "id": "7426786f-65b0-4931-92b5-ed0267ba17b0",
                 "resourcePath": "objects\\obj_enemy_square_ver\\obj_enemy_square_ver.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3e817ff-6c5c-44d2-b783-2a64d31470b2",
+            "Value": {
+                "id": "63e01b9e-f712-4b31-bf7e-20dd1634070e",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
