@@ -11,3 +11,11 @@ for(var l0E5CBDE2_2 = __dnd_lives; l0E5CBDE2_2 > 0; --l0E5CBDE2_2) {
 	draw_sprite(spr_lives, 0, 64 + l0E5CBDE2_1, 0);
 	l0E5CBDE2_1 += l0E5CBDE2_0;
 }
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
+/// @DnDVersion : 1
+/// @DnDHash : 6AECB23A
+/// @DnDArgument : "x" "64"
+/// @DnDArgument : "y" "64"
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+draw_text(64, 64, string("Score: ") + string(__dnd_score));

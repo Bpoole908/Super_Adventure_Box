@@ -33,3 +33,47 @@ if (l12ACB984_0)
 	/// @DnDParent : 12ACB984
 	room_goto_next();
 }
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+/// @DnDVersion : 1
+/// @DnDHash : 6ECEDA8A
+/// @DnDArgument : "key" "ord("C")"
+var l6ECEDA8A_0;
+l6ECEDA8A_0 = keyboard_check_pressed(ord("C"));
+if (l6ECEDA8A_0)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 1555E359
+	/// @DnDApplyTo : 93bf6cfc-198e-43aa-86e0-5f727b869d51
+	/// @DnDParent : 6ECEDA8A
+	with(obj_enemy_gun_right) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 2B5C2688
+	/// @DnDApplyTo : cae69b33-e82c-4051-8ba2-f18df43455a3
+	/// @DnDParent : 6ECEDA8A
+	with(obj_enemy_gun_left) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 54DBABCD
+	/// @DnDApplyTo : ea341f38-2681-4a58-a521-efa2875c9b49
+	/// @DnDParent : 6ECEDA8A
+	with(obj_enemy_square_ver) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 51E72A85
+	/// @DnDApplyTo : 701c73c1-680e-483f-bd94-9d7247ef9387
+	/// @DnDParent : 6ECEDA8A
+	with(obj_enemy_square_hor) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 0C14F178
+	/// @DnDApplyTo : e51186bb-0854-427c-a318-6729cef17310
+	/// @DnDParent : 6ECEDA8A
+	with(obj_enemy_square_path) instance_destroy();
+}
