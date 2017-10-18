@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "77f0a90b-8309-40cc-a80a-09a1c772bb74",
+            "Value": {
+                "id": "424304b7-53e8-4f30-a0a2-aed6ddbfe991",
+                "resourcePath": "fonts\\fnt_Score\\fnt_Score.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "86cc6400-cda0-4878-b671-191c908b6060",
             "Value": {
                 "id": "77569ccf-ba85-4797-8aa5-a02c51c2c81c",
@@ -306,7 +314,7 @@
             "Key": "bd600478-7e16-4a51-8baa-93483e43d7a2",
             "Value": {
                 "id": "2bd5ff9b-0596-4d69-b204-0a5bb81d7150",
-                "resourcePath": "objects\\obj_life_controller\\obj_life_controller.yy",
+                "resourcePath": "objects\\obj_life_score_controller\\obj_life_score_controller.yy",
                 "resourceType": "GMObject"
             }
         },

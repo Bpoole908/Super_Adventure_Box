@@ -12,6 +12,20 @@ for(var l0E5CBDE2_2 = __dnd_lives; l0E5CBDE2_2 > 0; --l0E5CBDE2_2) {
 	l0E5CBDE2_1 += l0E5CBDE2_0;
 }
 
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 72E0ACC1
+/// @DnDArgument : "font" "fnt_Score"
+/// @DnDSaveInfo : "font" "77f0a90b-8309-40cc-a80a-09a1c772bb74"
+draw_set_font(fnt_Score);
+
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 13733B28
+/// @DnDArgument : "color" "$FF0000FF"
+draw_set_colour($FF0000FF & $ffffff);
+draw_set_alpha(($FF0000FF >> 24) / $ff);
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
 /// @DnDHash : 6AECB23A

@@ -13,7 +13,7 @@ if (l5F0EA6A4_0)
 	/// @DnDParent : 5F0EA6A4
 	/// @DnDArgument : "lives" "1"
 	/// @DnDArgument : "lives_relative" "1"
-	with(obj_life_controller) {
+	with(obj_life_score_controller) {
 	if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 	__dnd_lives += real(1);
 	}
