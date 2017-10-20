@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 10D7DAFD
+/// @DnDApplyTo : bd600478-7e16-4a51-8baa-93483e43d7a2
+/// @DnDArgument : "lives" "-1"
+/// @DnDArgument : "lives_relative" "1"
+with(obj_life_score_controller) {
+if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+__dnd_lives += real(-1);
+}
+
 /// @DnDAction : YoYo Games.Instance Variables.If_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 7C96DF3C
@@ -14,18 +25,6 @@ if(l7C96DF3C_0)
 	/// @DnDHash : 2FA3C5AB
 	/// @DnDParent : 7C96DF3C
 	room_restart();
-
-	/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
-	/// @DnDVersion : 1
-	/// @DnDHash : 10D7DAFD
-	/// @DnDApplyTo : bd600478-7e16-4a51-8baa-93483e43d7a2
-	/// @DnDParent : 7C96DF3C
-	/// @DnDArgument : "lives" "-1"
-	/// @DnDArgument : "lives_relative" "1"
-	with(obj_life_score_controller) {
-	if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-	__dnd_lives += real(-1);
-	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else
