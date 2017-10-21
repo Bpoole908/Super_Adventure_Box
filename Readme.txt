@@ -33,3 +33,7 @@ Alt-C to remove all enemies in current level
 **Important Note**
 Due to the room restrictions of GameMaker, we were unable to complete 4 levels of the game, so we had to cap it at 3. 
 Also because of this restriction, we could not create two separate rooms for "Game Over" and "Game Won".
+
+**Sources**
+All visual components of the game were created by our team. The music, however, was created by mint_cream on soundcloud.
+https://soundcloud.com/mint_cream
