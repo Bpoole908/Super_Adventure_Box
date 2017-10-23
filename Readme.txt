@@ -36,4 +36,5 @@ Also because of this restriction, we could not create two separate rooms for "Ga
 
 **Sources**
 All visual components of the game were created by our team. The music, however, was created by mint_cream on soundcloud.
-https://soundcloud.com/mint_cream
+
+  Another Inactive Account. Adventure. 2013. MP3.
